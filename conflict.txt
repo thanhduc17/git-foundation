@@ -1,2 +1,6 @@
 base-line 
+<<<<<<< HEAD
 main-change 
+=======
+branch-change 
+>>>>>>> conflict-fix
